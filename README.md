@@ -1,10 +1,34 @@
-# Python Learning
+# Python Learning Journey 🚀
 
-My Python learning journey and projects.
+Welcome to my Python learning repository!
+
+This repository contains Python programs and projects that I created while learning Python programming.
 
 ## Projects
-- Driving Eligibility Checker
-- Square Calculator
-- Cube Calculator
-- Triangle Area Calculator
-- Dictionary Lookup Program
+
+### 1. Cube Calculator
+- Calculates the cube of a number.
+
+### 2. Square Calculator
+- Calculates the square of a number.
+
+### 3. Driving Eligibility Checker
+- Checks whether a person is eligible for driving based on age.
+
+### 4. Dictionary Lookup Program
+- Finds the meaning of words using a Python dictionary.
+
+## Skills Practiced
+- Variables
+- User Input
+- Data Types
+- Conditional Statements
+- Functions
+- Dictionaries
+- Basic Problem Solving
+
+## Goal
+I am continuously improving my Python skills by building small projects and learning new concepts.
+
+## Author
+**Abhinav Singh**
