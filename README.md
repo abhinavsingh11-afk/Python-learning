@@ -18,17 +18,10 @@ This repository contains Python programs and projects that I created while learn
 ### 4. Dictionary Lookup Program
 - Finds the meaning of words using a Python dictionary.
 
-## Skills Practiced
-- Variables
-- User Input
-- Data Types
-- Conditional Statements
-- Functions
-- Dictionaries
-- Basic Problem Solving
+- Recently Added: Simple Calculator Project ✅
 
 ## Goal
 I am continuously improving my Python skills by building small projects and learning new concepts.
 
-## Author
+
 **Abhinav Singh**
